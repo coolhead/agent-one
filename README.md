@@ -33,7 +33,7 @@ Designed for **enterprise reporting and automation use-cases**, it can:
 
 ---
 
-## 🏗️Architecture at a Glance
+## Architecture at a Glance
 
 ![Architecture Diagram](./Arch-diagram.jpg)
 
@@ -41,7 +41,7 @@ Designed for **enterprise reporting and automation use-cases**, it can:
 
 ---
 
-## ⚙️Setup and Run (Local Dev)
+## Setup and Run (Local Dev)
 
 > Requires: **Python ≥3.12**, **Node ≥18**, **Docker**, **Make**, and optionally **OpenAI API Key**.
 
@@ -154,11 +154,9 @@ Optional profanity & prompt-injection filters
 Easy extension point for LangGraph guardrails
 
 ---
-💻 Author
+Author:
 
-Raghavendra S. (coolhead)
+Raghavendra S. 
 DevOps | MLOps | Agentic AI Engineer
 
-📍 Bengaluru, India
-🔗 GitHub
- · LinkedIn
+📍 Bengaluru, India, 🔗 GitHub  · LinkedIn
