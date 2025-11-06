@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+
+# LangChain/Chroma
+apps/api/.chroma/
+
+# Node / Vite
+node_modules/
+apps/ui/node_modules/
+apps/ui/dist/
+*.log
+
+# Editors/OS
+.DS_Store
+.vscode/
+.idea/
+
+# Docker
+*.local.env

@@ -1,0 +1,3 @@
+Q3 Highlights:
+Revenue grew 12% QoQ, Gross Margin 38%. AI initiatives cut report prep time by 60%.
+Risks: ETL pipeline failures on month-end load; need auto-retry and alerting.

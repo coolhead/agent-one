@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+prometheus_client
+langchain
+langchain-openai
+langchain-huggingface
+langchain-community
+chromadb
+pydantic>=2
+pytest
+ruff
+mypy
+sentence-transformers
